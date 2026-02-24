@@ -6,8 +6,9 @@ export const handler = async (
   return {
     statusCode: 200,
     body: JSON.stringify({
-      message: "Hello from TypeScript github"
+      message: "Hello from TypeScript github time:-20:20"
     })
   };
 };
+
 
